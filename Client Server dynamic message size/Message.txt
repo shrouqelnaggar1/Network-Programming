@@ -1,0 +1,2 @@
+message larger than 1024 byte :
+This is a test message larger than 1024 bytes. This message will be sent in chunks to the server to test the communication between server and client to test if server can recieve and display it into screen.
